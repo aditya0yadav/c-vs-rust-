@@ -1,0 +1,7 @@
+=== Cpp Server Results ===
+
+GET / Results:
+PANIC: unprotected error in call to Lua API (attempt to index a nil value)
+
+POST /data Results:
+PANIC: unprotected error in call to Lua API (attempt to index a nil value)
